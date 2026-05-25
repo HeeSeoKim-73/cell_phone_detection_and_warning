@@ -28,3 +28,10 @@ kaggle의 cell phone object detection dataset을 활용하였다.
 - YOLOv8
 - OpenCV
 - Ultralytics
+
+---
+
+## 결과 사진
+![result1](screenshot1.png)
+![result2](screenshot2.png)
+![result3](screenshot3.png)
