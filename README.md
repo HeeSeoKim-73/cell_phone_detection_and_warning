@@ -9,7 +9,8 @@ YOLOv8 객체 탐지 모델의 fine-tuning을 위해
 kaggle의 cell phone object detection dataset을 활용하였다.
 - https://www.kaggle.com/datasets/a165079/cellphoneobjectdetectionusingyolov7
 
-학습 완료 후 생성된 최고 성능 모델이 best.pt 파일이다.
+총 515장의 train 이미지를 이용하여 모델을 학습하였으며, 
+학습 경과 생성된 모델 파일이 best.pt 파일이다.
 
 ---
 
